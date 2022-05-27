@@ -1,0 +1,9 @@
+echo off
+cd bin
+cd lars
+cd ui
+java MainFrame
+cd ..
+cd ..
+cd ..
+echo on
